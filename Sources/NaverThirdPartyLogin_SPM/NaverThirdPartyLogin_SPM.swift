@@ -1,0 +1,6 @@
+public struct NaverThirdPartyLogin_SPM {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
